@@ -1,6 +1,6 @@
 # 🦁 Animal Classification Model - Proje Özeti
 
-Bu proje, 10 farklı hayvan türünü sınıflandırmak amacıyla bir derin öğrenme modeli oluşturmayı hedeflemektedir. **Toplamda 46 farklı sınıf** bulunmaktadır, ancak proje kapsamında **seçilen 10 sınıf** üzerinde çalışmalar yapılmıştır. Model, farklı hayvan türlerinin görüntülerini kullanarak bu türleri doğru bir şekilde tanıyabilen bir sınıflandırıcıdır. Projede, görüntü işleme, veri hazırlığı, model eğitimi ve model değerlendirmesi gibi adımlar yer almaktadır.
+Bu proje, 10 farklı hayvan türünü sınıflandırmak amacıyla bir derin öğrenme modeli oluşturmayı hedeflemektedir. **Toplamda 50 farklı sınıf** bulunmaktadır, ancak proje kapsamında **seçilen 10 sınıf** üzerinde çalışmalar yapılmıştır. Model, farklı hayvan türlerinin görüntülerini kullanarak bu türleri doğru bir şekilde tanıyabilen bir sınıflandırıcıdır. Projede, görüntü işleme, veri hazırlığı, model eğitimi ve model değerlendirmesi gibi adımlar yer almaktadır.
 
 ## 🐘 Kullanılan Kütüphaneler
 
