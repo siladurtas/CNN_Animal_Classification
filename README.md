@@ -58,4 +58,4 @@ Model, test setlerinde yüksek doğruluk oranları elde etmiştir. Eğitim süre
 Bu proje, hayvan sınıflandırma üzerine yapılacak araştırmalar ve uygulamalar için bir temel oluşturmaktadır. Kullanıcılar, gerekli kütüphaneleri yükleyerek ve sağlanan kodu çalıştırarak modelin eğitimini ve değerlendirilmesini gerçekleştirebilirler.
 
 ### 🦒 Kaggle Linki
-[Animal Classification Model Kaggle Linki](https://www.kaggle.com/code/siladurtas/cnn-bootcamp)
+(https://www.kaggle.com/code/siladurtas/cnn-bootcamp)
